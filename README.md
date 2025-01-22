@@ -1,7 +1,7 @@
 ### 👋 Hi There,
 - I specialize in backend development and microservices architecture.
 - I like to code and learn new technologies.
-- I have hands-on experince in Python, Django, Flask, FastAPI, Javascript, NodeJS, Reach(basic), GO(basic), MySQL, MongoDb, Docker, Kubernetes and cloud providers GCP, Azure.
+- I have hands-on experince in Python, Django, Flask, FastAPI, Javascript, NodeJS, Reach(basic), GO(basic), MySQL, MongoDb, Docker, Kubernetes and cloud providers GCP, Azure and AWS.
 
 
 ### Work 💼
