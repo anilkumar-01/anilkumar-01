@@ -7,7 +7,7 @@
 ### Work 💼
 | Org | Account | Tenure
 |--|--|--|
-| [@nference](https://github.com/lumenbiomics) | [@vibhu4nfer](https://github.com/anil-kumar-b) | Aug '22 - Present |
+| [@nference](https://github.com/lumenbiomics) | [@anil-kumar-b](https://github.com/anil-kumar-b) | Aug '22 - Present |
 | @tredence | - | June '17 - July '22 |
 
 
